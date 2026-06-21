@@ -18,6 +18,7 @@
 
 ###
 <p data-importer="text" align="left">🎯 450+ LeetCode Problems Solved<br>👨‍💻 Coding, Learning, and Shipping Projects <br>🚀  Full Stack Developer | Ai Enthusiast<br>💻 Engineering Ideas into Products<br>⚡ Creating Solutions with Code and Curiosity</p>
+
 ###
 
 <h2 data-importer="text" align="left">My Toolkit</h2>
