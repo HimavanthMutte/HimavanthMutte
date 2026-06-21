@@ -16,7 +16,6 @@
 
 <img data-importer="image" align="right" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3cwMmV3cWZ0MzU4a3lhM3NiNWlzOWNhMjFuMGptODhyeXh5bDB3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif"  />
 
-###
 <p data-importer="text" align="left">🎯 450+ LeetCode Problems Solved<br>👨‍💻 Coding, Learning, and Shipping Projects <br>🚀  Full Stack Developer | Ai Enthusiast<br>💻 Engineering Ideas into Products<br>⚡ Creating Solutions with Code and Curiosity</p>
 
 ###
