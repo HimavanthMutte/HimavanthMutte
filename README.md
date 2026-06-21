@@ -1,7 +1,3 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
 ###
 
 <h1 data-importer="text" align="left">Himavanth Mutte</h1>
@@ -15,8 +11,6 @@
 <h2 data-importer="text" align="left">About me</h2>
 
 ###
-
-<br clear="both">
 
 <img data-importer="image" align="right" height="194" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3cwMmV3cWZ0MzU4a3lhM3NiNWlzOWNhMjFuMGptODhyeXh5bDB3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif"  />
 
